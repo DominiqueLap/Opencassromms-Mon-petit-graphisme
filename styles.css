@@ -65,6 +65,11 @@ nav{
 .adresse{
     list-style-type: none;
 }
-/*footer{
+footer{
+    color: white;
+    background-color: blueviolet;
 
-}/
+}
+.organigramme h1    {
+    text-transform: uppercase;
+}
