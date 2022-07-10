@@ -31,7 +31,7 @@ nav{
 
 }
 .banniere{
-    border: 2px solid red;
+    
     height: 415px;
     background-image:url("Images/backgroung_image.jpg");
     background-size: contain;
@@ -54,3 +54,17 @@ nav{
     margin: auto;
 
 }
+.graphisme{
+    
+    display: block;
+}
+.basdepage{
+    display: flex;
+    
+}
+.adresse{
+    list-style-type: none;
+}
+/*footer{
+
+}/
