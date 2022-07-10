@@ -23,3 +23,34 @@ nav ul{
 nav{
     width: 200px;
 }
+
+.banniere img{
+    width: 250Px;
+    height: 75px;
+    object-fit:cover;
+
+}
+.banniere{
+    border: 2px solid red;
+    height: 415px;
+    background-image:url("Images/backgroung_image.jpg");
+    background-size: contain;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}    
+.organigramme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+.icones{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
